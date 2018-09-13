@@ -6,7 +6,7 @@
  * getFlags(arr); // [1, 2, 3, 4, 5, 6]
  */
 const getFlags = arr => {
-  /* your logic here...*/
+  Array.prototype.push.apply(arr1);
 };
 
 export default getFlags;
